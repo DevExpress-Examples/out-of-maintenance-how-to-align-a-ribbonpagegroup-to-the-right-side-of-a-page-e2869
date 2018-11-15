@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyRibbonControl.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonControl.vb))
+* [MyRibbonPageGroupViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPageGroupViewInfo.cs) (VB: [MyRibbonPageGroupViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPageGroupViewInfo.vb))
+* [MyRibbonPanelLayoutCalculator.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelLayoutCalculator.cs) (VB: [MyRibbonPanelLayoutCalculator.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelLayoutCalculator.vb))
+* [MyRibbonPanelViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelViewInfo.cs) (VB: [MyRibbonPanelViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelViewInfo.vb))
+* [MyRibbonViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonViewInfo.cs) (VB: [MyRibbonViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonViewInfo.vb))
+* [RibbonForm1.cs](./CS/WindowsApplication1/RibbonForm1.cs) (VB: [RibbonForm1.vb](./VB/WindowsApplication1/RibbonForm1.vb))
+<!-- default file list end -->
 # How to align a RibbonPageGroup to the right side of a page?
 
 <p>Starting with version 18.2, you can use the RibbonPageGroup.Alignment property to align RibbonPageGroup to the right side. In previous versions, you can use the previous approach:</p>
