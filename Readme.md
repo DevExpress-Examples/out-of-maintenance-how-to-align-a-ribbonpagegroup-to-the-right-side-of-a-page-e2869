@@ -6,11 +6,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MyRibbonControl.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonControl.vb))
-* [MyRibbonPageGroupViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPageGroupViewInfo.cs) (VB: [MyRibbonPageGroupViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPageGroupViewInfo.vb))
-* [MyRibbonPanelLayoutCalculator.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelLayoutCalculator.cs) (VB: [MyRibbonPanelLayoutCalculator.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelLayoutCalculator.vb))
-* [MyRibbonPanelViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelViewInfo.cs) (VB: [MyRibbonPanelViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonPanelViewInfo.vb))
-* [MyRibbonViewInfo.cs](./CS/WindowsApplication1/Custom Ribbon Control/MyRibbonViewInfo.cs) (VB: [MyRibbonViewInfo.vb](./VB/WindowsApplication1/Custom Ribbon Control/MyRibbonViewInfo.vb))
+* [MyRibbonControl.cs](./CS/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonControl.vb))
+* [MyRibbonPageGroupViewInfo.cs](./CS/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPageGroupViewInfo.cs) (VB: [MyRibbonPageGroupViewInfo.vb](./VB/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPageGroupViewInfo.vb))
+* [MyRibbonPanelLayoutCalculator.cs](./CS/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPanelLayoutCalculator.cs) (VB: [MyRibbonPanelLayoutCalculator.vb](./VB/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPanelLayoutCalculator.vb))
+* [MyRibbonPanelViewInfo.cs](./CS/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPanelViewInfo.cs) (VB: [MyRibbonPanelViewInfo.vb](./VB/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonPanelViewInfo.vb))
+* [MyRibbonViewInfo.cs](./CS/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonViewInfo.cs) (VB: [MyRibbonViewInfo.vb](./VB/WindowsApplication1/Custom%20Ribbon%20Control/MyRibbonViewInfo.vb))
 * [RibbonForm1.cs](./CS/WindowsApplication1/RibbonForm1.cs) (VB: [RibbonForm1.vb](./VB/WindowsApplication1/RibbonForm1.vb))
 <!-- default file list end -->
 # How to align a RibbonPageGroup to the right side of a page?
